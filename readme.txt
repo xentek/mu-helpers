@@ -56,7 +56,7 @@ Added a new function: `get_all_blog_comments`
 
 The WordPress-MU Helpers plugin was developed by Eric Marden, and is provided with out warranty under the GPLv2 License. More info and other plugins at: http://xentek.net
 
-Copyright 2008  Eric Marden  (email : wp@xentek.net)
+Copyright 2010  Eric Marden  (email : wp@xentek.net)
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
